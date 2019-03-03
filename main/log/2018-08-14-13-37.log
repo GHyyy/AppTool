@@ -1,0 +1,7 @@
+2018-08-14 13:37:52,106 - E:/tool/Python/workApp/main/otherutils/logutils.py[line:46] - DEBUG: debug
+2018-08-14 13:37:52,106 - E:/tool/Python/workApp/main/otherutils/logutils.py[line:47] - INFO: info
+2018-08-14 13:37:52,106 - E:/tool/Python/workApp/main/otherutils/logutils.py[line:48] - WARNING: 警告
+2018-08-14 13:37:52,106 - E:/tool/Python/workApp/main/otherutils/logutils.py[line:49] - ERROR: 报错
+2018-08-14 13:37:52,106 - E:/tool/Python/workApp/main/otherutils/logutils.py[line:50] - CRITICAL: 严重
+2018-08-14 13:37:52,110 - E:/tool/Python/workApp/main/otherutils/logutils.py[line:51] - ERROR: error
+2018-08-14 13:37:52,110 - E:/tool/Python/workApp/main/otherutils/logutils.py[line:51] - ERROR: error

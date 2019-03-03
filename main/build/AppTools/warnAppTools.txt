@@ -1,0 +1,22 @@
+missing module named PySide - imported by C:\Users\hankhe\AppData\Local\Programs\Python\Python36-32\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_qt4plugins.py
+missing module named resource - imported by posix, E:\tool\Python\workApp\main\AppTools.py
+missing module named posix - imported by os, E:\tool\Python\workApp\main\AppTools.py
+missing module named _posixsubprocess - imported by subprocess, E:\tool\Python\workApp\main\AppTools.py
+missing module named org - imported by pickle, E:\tool\Python\workApp\main\AppTools.py
+missing module named readline - imported by cmd, code, pdb, E:\tool\Python\workApp\main\AppTools.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, E:\tool\Python\workApp\main\AppTools.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, E:\tool\Python\workApp\main\AppTools.py
+missing module named _winreg - imported by platform, E:\tool\Python\workApp\main\AppTools.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, E:\tool\Python\workApp\main\AppTools.py
+missing module named 'java.lang' - imported by platform, E:\tool\Python\workApp\main\AppTools.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, E:\tool\Python\workApp\main\AppTools.py
+missing module named termios - imported by tty, E:\tool\Python\workApp\main\AppTools.py, getpass
+missing module named grp - imported by shutil, tarfile, E:\tool\Python\workApp\main\AppTools.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, E:\tool\Python\workApp\main\AppTools.py, netrc, getpass
+missing module named _dummy_threading - imported by dummy_threading, E:\tool\Python\workApp\main\AppTools.py
+missing module named 'org.python' - imported by copy, E:\tool\Python\workApp\main\AppTools.py, xml.sax
+missing module named cPickle - imported by xlsxwriter.compat_collections
+missing module named cStringIO - imported by cPickle
+missing module named copy_reg - imported by cPickle, cStringIO
+missing module named StringIO - imported by xlsxwriter.compatibility
