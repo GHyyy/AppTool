@@ -3,3 +3,7 @@
 
 
 ![image](https://github.com/GHyyy/AppTool/blob/master/adb.png)
+
+![image](https://github.com/GHyyy/AppTool/blob/master/monkey.png)
+
+![image](https://github.com/GHyyy/AppTool/blob/master/performance.png)
