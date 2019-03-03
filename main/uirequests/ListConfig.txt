@@ -1,0 +1,8 @@
+api/v1/config/keys
+api/v1/upgrade/apk
+api/v1/feedback/upload
+api/v1/deviceId/get
+api/advertising/list
+api/v1/commonConfig/keys
+api/v1/cityLocator/getLocation
+api/v1/adSwitch/getStatus
