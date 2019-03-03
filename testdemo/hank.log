@@ -1,5 +1,0 @@
-2018-08-09 Thursday 23:33:33  logutils.py : DEBUG  logger debug message
-2018-08-09 Thursday 23:33:33  logutils.py : INFO  logger info message
-2018-08-09 Thursday 23:33:33  logutils.py : WARNING  logger warning message
-2018-08-09 Thursday 23:33:33  logutils.py : ERROR  logger error message
-2018-08-09 Thursday 23:33:33  logutils.py : CRITICAL  logger critical message

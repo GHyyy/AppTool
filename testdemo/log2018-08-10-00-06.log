@@ -1,8 +1,0 @@
-2018-08-10 00:06:24,591 - G:/Tool/Python/work/workApp/testdemo/dict.py[line:15] - INFO: test test log
-2018-08-10 00:06:52,959 - G:/Tool/Python/work/workApp/testdemo/logutils.py[line:40] - DEBUG: debug
-2018-08-10 00:06:52,959 - G:/Tool/Python/work/workApp/testdemo/logutils.py[line:41] - INFO: info
-2018-08-10 00:06:52,959 - G:/Tool/Python/work/workApp/testdemo/logutils.py[line:42] - WARNING: 警告
-2018-08-10 00:06:52,959 - G:/Tool/Python/work/workApp/testdemo/logutils.py[line:43] - ERROR: 报错
-2018-08-10 00:06:52,959 - G:/Tool/Python/work/workApp/testdemo/logutils.py[line:44] - CRITICAL: 严重
-2018-08-10 00:06:52,961 - G:/Tool/Python/work/workApp/testdemo/logutils.py[line:45] - ERROR: error
-2018-08-10 00:06:52,961 - G:/Tool/Python/work/workApp/testdemo/logutils.py[line:45] - ERROR: error
